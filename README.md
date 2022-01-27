@@ -1,6 +1,8 @@
 # Chess-AI-using-Alpha-Beta-pruning
 This project is a web application that uses alpha-beta pruning as main algorithm to play chess
 
+[ See it in action ](https://amr205.github.io/Chess-AI-using-Alpha-Beta-pruning/)
+
 This "Artifficial Intelligence" uses chess.js to control the state of the game, and uses an evaluating function based on what you can see in this tutorial: https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/
 I have made a web application that uses this algorithm to play against an artifficial intelligence.
 
